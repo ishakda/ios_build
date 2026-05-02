@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "150517961971",
+    "firebase_url": "https://shopingapp-26662-default-rtdb.firebaseio.com",
+    "project_id": "shopingapp-26662",
+    "storage_bucket": "shopingapp-26662.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150517961971:android:63b20bb72b1421adc35386",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150517961971-3g6sgkm0oo3clvd1b6qautf80eon9am5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-cG_4XwXun9zqy48QpocJsJXwO_GZUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150517961971-3g6sgkm0oo3clvd1b6qautf80eon9am5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150517961971:android:8ed2d9876aa5fe40c35386",
+        "android_client_info": {
+          "package_name": "com.sahla.algeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150517961971-3g6sgkm0oo3clvd1b6qautf80eon9am5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-cG_4XwXun9zqy48QpocJsJXwO_GZUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150517961971-3g6sgkm0oo3clvd1b6qautf80eon9am5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

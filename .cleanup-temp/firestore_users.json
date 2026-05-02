@@ -1,0 +1,113 @@
+[
+    {
+        "name":  "projects/shopingapp-26662/databases/(default)/documents/users/DEbiIoeCPORIzSD6cTMAN1dSjXW2",
+        "fields":  {
+                       "phoneNumber":  {
+                                           "nullValue":  null
+                                       },
+                       "role":  {
+                                    "stringValue":  "seller"
+                                },
+                       "name":  {
+                                    "stringValue":  "ishak daoud"
+                                },
+                       "id":  {
+                                  "stringValue":  "DEbiIoeCPORIzSD6cTMAN1dSjXW2"
+                              },
+                       "profileImageUrl":  {
+                                               "nullValue":  null
+                                           },
+                       "email":  {
+                                     "stringValue":  "ishxk17@gmail.com"
+                                 },
+                       "createdAt":  {
+                                         "timestampValue":  "2026-04-25T11:46:10.300Z"
+                                     },
+                       "storeDescription":  {
+                                                "stringValue":  "Premium products for modern lifestyle."
+                                            },
+                       "storeName":  {
+                                         "stringValue":  "ishak Store"
+                                     },
+                       "fcmToken":  {
+                                        "stringValue":  "cIAyA9xNQ4m7iJ09On5Rxj:APA91bFRgvY7bR7VoqxT-GtIX939DP07-HbwMSxGTIotpKhnlSmWuVmUuo1OurtsdeExD32OENvwDibPFKNxf4yGrQPaE-9gY1Ra90-MhLde8EHmoLOpF6s"
+                                    },
+                       "followerCount":  {
+                                             "integerValue":  "1"
+                                         }
+                   },
+        "createTime":  "2026-04-25T11:46:10.367751Z",
+        "updateTime":  "2026-04-27T00:21:12.395230Z"
+    },
+    {
+        "name":  "projects/shopingapp-26662/databases/(default)/documents/users/OVLdLCmKOSS5n96Ym6eAZj4dERe2",
+        "fields":  {
+                       "role":  {
+                                    "stringValue":  "buyer"
+                                },
+                       "name":  {
+                                    "stringValue":  "black \u0026white"
+                                },
+                       "id":  {
+                                  "stringValue":  "OVLdLCmKOSS5n96Ym6eAZj4dERe2"
+                              },
+                       "profileImageUrl":  {
+                                               "stringValue":  "https://lh3.googleusercontent.com/a/ACg8ocKN98du7lSzfrOp-rWcVLE7QvYGCuQnmXaP4VAeZLYvDXbumE0=s96-c"
+                                           },
+                       "email":  {
+                                     "stringValue":  "yesgame466@gmail.com"
+                                 },
+                       "createdAt":  {
+                                         "timestampValue":  "2026-04-25T14:51:05.665Z"
+                                     },
+                       "phoneNumber":  {
+                                           "stringValue":  ""
+                                       },
+                       "fcmToken":  {
+                                        "stringValue":  "cIAyA9xNQ4m7iJ09On5Rxj:APA91bFRgvY7bR7VoqxT-GtIX939DP07-HbwMSxGTIotpKhnlSmWuVmUuo1OurtsdeExD32OENvwDibPFKNxf4yGrQPaE-9gY1Ra90-MhLde8EHmoLOpF6s"
+                                    },
+                       "followingStores":  {
+                                               "arrayValue":  {
+                                                                  "values":  [
+                                                                                 {
+                                                                                     "stringValue":  "DEbiIoeCPORIzSD6cTMAN1dSjXW2"
+                                                                                 }
+                                                                             ]
+                                                              }
+                                           }
+                   },
+        "createTime":  "2026-04-25T14:51:05.825714Z",
+        "updateTime":  "2026-04-27T00:21:12.395230Z"
+    },
+    {
+        "name":  "projects/shopingapp-26662/databases/(default)/documents/users/Tavh2qIOIXPYLTks4ajDe9b3vM52",
+        "fields":  {
+                       "phoneNumber":  {
+                                           "nullValue":  null
+                                       },
+                       "role":  {
+                                    "stringValue":  "buyer"
+                                },
+                       "name":  {
+                                    "stringValue":  "Ali"
+                                },
+                       "id":  {
+                                  "stringValue":  "Tavh2qIOIXPYLTks4ajDe9b3vM52"
+                              },
+                       "profileImageUrl":  {
+                                               "nullValue":  null
+                                           },
+                       "email":  {
+                                     "stringValue":  "ishxk16@gmail.com"
+                                 },
+                       "createdAt":  {
+                                         "timestampValue":  "2026-04-25T12:53:36.993Z"
+                                     },
+                       "fcmToken":  {
+                                        "stringValue":  "fXVHkyccR5qe_S7cmpzLMh:APA91bE9crLjYIvPO5K5o97dGzpFjLpWch4_YztvPnU-xjLFiSyEyfRBMkydWZpwINaFIbZD-rR8Ax59FvlKlTNEm8SvXK-wCQk251NT3QC08pZafS2AZmg"
+                                    }
+                   },
+        "createTime":  "2026-04-25T12:53:37.033755Z",
+        "updateTime":  "2026-04-25T13:09:30.030119Z"
+    }
+]
