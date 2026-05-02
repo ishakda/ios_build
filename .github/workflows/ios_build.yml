@@ -16,7 +16,7 @@ jobs:
         uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
-          flutter-version: '3.19.0' # Matches your project or use 'any'
+          # Removed fixed version to use the latest stable that matches your Dart 3.11.5 requirement
 
       - name: Install Dependencies
         run: |
