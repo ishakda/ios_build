@@ -25,13 +25,11 @@ jobs:
           pod install
           cd ..
 
-      - name: Build IPA
-        run: flutter build ipa --no-codesign
-        # Note: --no-codesign builds the app but it won't run on a physical device 
-        # until you add your Apple Certificates to GitHub Secrets.
+      - name: Build iOS
+        run: flutter build ios --release --no-codesign
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: ios-build
-          path: build/ios/ipa/*.ipa
+          path: build/ios/iphoneos/Runner.app
